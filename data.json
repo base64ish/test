@@ -1,0 +1,8 @@
+{
+    'user1':{pass:'pass1',type:['audio', 'video']},
+    'user2':{pass:'pass2',type:['audio', 'video']},
+    'user3':{pass:'pass3',type:['audio', 'video']},
+    'user4':{pass:'pass4',type:['audio', 'video']},
+    'user5':{pass:'pass5',type:['audio', 'video']},
+    'user6':{pass:'pass6',type:['audio', 'video']}
+}
